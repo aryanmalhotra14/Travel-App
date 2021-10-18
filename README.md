@@ -7,4 +7,3 @@ Members:
 - Mohammad Hasan Lutfy 
 - Aryan Malhotra 
 - Anweasha Saha
-- 
